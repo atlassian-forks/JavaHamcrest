@@ -21,8 +21,8 @@
   </licenses>
 
   <scm>
-    <url>https://github.com/hamcrest/JavaHamcrest</url>
-    <connection>scm:git:git@github.com:hamcrest/JavaHamcrest.git</connection>
+    <url>https://github.com/atlassian/JavaHamcrest</url>
+    <connection>scm:git:git@github.com:atlassian/JavaHamcrest.git</connection>
   </scm>
 
   <developers>
