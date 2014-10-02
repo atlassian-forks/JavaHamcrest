@@ -5,7 +5,7 @@
   <parent>
     <groupId>org.hamcrest</groupId>
     <artifactId>hamcrest-parent</artifactId>
-    <version>1.4-atlassian-1</version>
+    <version>1.4-SNAPSHOT</version>
   </parent>
 
   <artifactId>hamcrest-generator</artifactId>
